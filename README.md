@@ -6,3 +6,8 @@ through at least the first few videos of this playlist before diving into Neovim
 
 My setup includes a few additional plugins and themes.
 
+## Installation
+
+```
+git clone https://github.com/ezeev/nvim-pde.git ~/.config/nvim
+```
