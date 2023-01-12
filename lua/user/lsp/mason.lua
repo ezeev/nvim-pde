@@ -1,3 +1,5 @@
+
+-- Look at the list here to add a new server: https://github.com/williamboman/mason-lspconfig.nvim
 local servers = {
 	"sumneko_lua",
 	"cssls",
@@ -8,6 +10,8 @@ local servers = {
 	"jsonls",
 	"yamlls",
   "rust_analyzer",
+  "golangci_lint_ls",
+  "gopls",
 }
 
 local settings = {
