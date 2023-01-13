@@ -11,3 +11,4 @@ My setup includes a few additional plugins and themes.
 ```
 git clone https://github.com/ezeev/nvim-pde.git ~/.config/nvim
 ```
+Then open nvim and run `:checkhealth`. Any missing prereqs or other issues should be presented here.
