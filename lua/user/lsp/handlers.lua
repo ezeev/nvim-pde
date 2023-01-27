@@ -99,7 +99,7 @@ M.on_attach = function(client, bufnr)
 	-- end autoformat on save block
 
 	if client.name == "tsserver" then
-		client.server_capabilities.documentFormattingProvider = false
+		client.server_capabilities.documentFormattingProvider = true
 	end
 
 	if client.name == "sumneko_lua" then
