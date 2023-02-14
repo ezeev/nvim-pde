@@ -12,6 +12,7 @@ local servers = {
   "rust_analyzer",
   "golangci_lint_ls",
   "gopls",
+  "tailwindcss",
 }
 
 local settings = {
